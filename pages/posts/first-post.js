@@ -1,16 +1,16 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import Layout from '../../components/layout';
+import utilStyles from '../../styles/utils.module.css';
 
 export default function FirstPost(){
   return (
-  <Layout>
+  <Layout post>
     <Head>
       <title> First Post </title>
     </Head>
-
     <h1 className="title"> First post </h1>
-    <Link href="/"> Back to Home </Link>
+    <p> This is the very first post that I've created! </p>
   </Layout>
   );
 }
