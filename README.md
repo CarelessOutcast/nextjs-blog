@@ -15,7 +15,7 @@ on their journey to being a better programmer in general.
 
 
 ## Screenshot
-{insert_shot}
+![website.png]{./docs/website.png "Website"}
 
 
 
