@@ -15,7 +15,7 @@ on their journey to being a better programmer in general.
 
 
 ## Screenshot
-![website.png]{./docs/website.png "Website"}
+![website.png](/docs/website.png "Website")
 
 
 
