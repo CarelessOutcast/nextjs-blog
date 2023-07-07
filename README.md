@@ -1,5 +1,13 @@
 # Simple Blog App
 
+> TODO
+> - Add card style for list component 
+> - Add contact form 
+> - Add navigation bar on pages other than home
+> - Add "quick-add" script
+> - Add share buttons
+> - Add dark-mode toggle
+
 ## Motivation: 
 I've wanted to create a simple blog to start posting some of my findings and as
 another project that I could build for my github. I decided that I would pick
@@ -16,6 +24,10 @@ on their journey to being a better programmer in general.
 
 ## Screenshot
 ![website.png](/docs/website.png "Website")
+
+
+
+
 
 
 
